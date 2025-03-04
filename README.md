@@ -2,16 +2,6 @@
 
 This repository contains an implementation of a Recurrent Neural Network (RNN)-based model for translating Urdu text into English.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Preprocessing](#preprocessing)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Credits](#credits)
-
 ## Introduction
 This project implements a sequence-to-sequence (Seq2Seq) model using an RNN-based approach for machine translation from Urdu to English. The model utilizes PyTorch and processes a dataset of parallel Urdu-English sentences.
 
